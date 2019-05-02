@@ -6,7 +6,7 @@
 ---
   通过爬虫获取数据后保存在MySQL数据库中，主要获取两个方面的数据：1.用户评论与评分信息；2.评论者信息，主要是用户所在地。  
   数据样本  
-  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/movie_comments.png)
-  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/user_information.png)
+  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/movie_comments.png"评论信息")
+  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/user_information.png"用户信息")
 ## 2.数据分析
 ---
