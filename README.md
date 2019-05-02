@@ -15,3 +15,12 @@
   ### 1.计算两部电影的平均评分
   网站评分分为五个级别：力荐，推荐，还行，较差，很差。分别赋值5分，4分，3分，2分，1分，在滤除未评分的用户后，计算出两部电影的评分分别是3.9分和3.2分。由此看来，两部电影的评分差距还是比较大的。<br>
   ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/%E5%B9%B3%E5%9D%87%E5%88%86%E5%AF%B9%E6%AF%94.png)
+  ### 2.各级别评分人数对比
+  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/%E5%90%84%E7%BA%A7%E8%AF%84%E5%88%86%E7%82%B9%E8%B5%9E%E6%95%B0%E5%AF%B9%E6%AF%94.png)<br>
+  通过上表，我们可以看出来《复仇者联盟》的评分主要集中在“力荐”上，而《惊奇队长》则比较分散，“还行”占多数。从这个角度来看，复仇者联盟又一次胜出了。<br>
+  ### 3.各级别评分的点赞数对比
+  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/%E5%90%84%E7%BA%A7%E8%AF%84%E5%88%86%E7%82%B9%E8%B5%9E%E6%95%B0%E5%AF%B9%E6%AF%94.png)<br>
+  从点赞数来看，《复仇者联盟》再一次主要集中在“力荐”上，而《惊奇队长》仍然是集中在“还行”上。而且，《复仇者联盟》的点赞总数更是远远超过《惊奇队长》。这说明《复仇者联盟》不仅在评分上大大超过《惊奇队长》，在热度上也同样远胜于《惊奇队长》。
+## 3.词频统计
+---
+
