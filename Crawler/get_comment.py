@@ -11,13 +11,7 @@ def get_html(url):
                    '73.0.3683.103 Safari/537.36'
                }
     cookies = {'cookie':
-                   'bid=Fun3o0yy2oc; douban-fav-remind=1; viewed="5257905"; gr_user_id=65af1a05-e8bb-4b5e-a8eb-877'
-                   'f699bf46b; _vwo_uuid_v2=D8EDE9087607920089BE2F47281FEC4A0|1d8c4341fd127e3a6d3b9af33dea13aa; '
-                   'll="118178"; ap_v=0,6.0; _pk_ref.100001.4cf6=%5B%22%22%2C%22%22%2C1556168326%2C%22https%3A%2F%'
-                   '2Fwww.douban.com%2Fsearch%3Fq%3D%25E5%25A4%258D%25E4%25BB%2587%25E8%2580%2585%25E8%2581%2594%2'
-                   '5E7%259B%259F%22%5D; _pk_ses.100001.4cf6=*; __yadk_uid=VkIi7okhJW9XpphTrUS9F4pJn3kvvS6v; dbcl'
-                   '2="195505411:ekSY77DMoMw"; ck=RcbX; push_noty_num=0; push_doumail_num=0; _pk_id.100001.4cf6=53'
-                   '6cef4996d2a1b5.1556168326.1.1556170175.1556168326.'
+                        *** #cookie信息
                }
     res = requests.get(url, headers=headers, cookies=cookies)
     return res
