@@ -22,5 +22,4 @@
   ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/%E5%90%84%E7%BA%A7%E8%AF%84%E5%88%86%E7%82%B9%E8%B5%9E%E6%95%B0%E5%AF%B9%E6%AF%94.png)<br>
   从点赞数来看，《复仇者联盟》再一次主要集中在“力荐”上，而《惊奇队长》仍然是集中在“还行”上。而且，《复仇者联盟》的点赞总数更是远远超过《惊奇队长》。这说明《复仇者联盟》不仅在评分上大大超过《惊奇队长》，在热度上也同样远胜于《惊奇队长》。
 ## 3.词频统计
----
-
+  ![](C:\Users\KILO\DataAnalysis\douban_movie_comments_analysis\Avengers_cloud(2).png)
