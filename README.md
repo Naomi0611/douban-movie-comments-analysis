@@ -19,4 +19,14 @@
   ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/%E5%90%84%E7%BA%A7%E8%AF%84%E5%88%86%E7%82%B9%E8%B5%9E%E6%95%B0%E5%AF%B9%E6%AF%94.png)<br>
   从点赞数来看，《复仇者联盟》再一次主要集中在“力荐”上，而《惊奇队长》仍然是集中在“还行”上。而且，《复仇者联盟》的点赞总数更是远远超过《惊奇队长》。这说明《复仇者联盟》不仅在评分上大大超过《惊奇队长》，在热度上也同样远胜于《惊奇队长》。
 ## 3.词频统计
-  ![](https://github.com/kilone/douban-movie-comments-analysis/tree/master/DataAnalysis/images/Avengers_cloud.png)
+### 1.复仇者联盟词频统计
+  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/avengers_frequency.png)   
+  从词频统计来看，《复仇者联盟》中，“十年”，“时间”，“情怀”等词占有较高比例，因为这一部是系列最后一部，所以大家在评论时带着比较重的情怀的，从一定程度上来说，打分也有情怀加分的影响。此外，“钢铁侠”，“美队”，这两位超级英雄也有较高的频率，说明这两位英雄在《复仇者联盟》中是毫无疑问的主角，在影迷心中有着非常重要的地位。
+### 2.复仇者联盟词云
+  ![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/Avengers_cloud.png)   
+### 3.惊奇队长词频统计
+![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/captain_frequency.png)   
+从词频统计来看，前20的词语中，只有惊奇队长一位角色名，因为这是一部关于惊奇队长的个人电影，所以惊奇队长毫无疑问占C位。另外，“女主”和“女性”都出现在了前
+20中，说明《惊奇队长》作为漫威系列第一部女性超级英雄电影，女性这个关键词获得了很高的讨论度。
+### 4.惊奇队长词云
+![](https://github.com/kilone/douban-movie-comments-analysis/blob/master/DataAnalysis/images/captain_cloud.png)
